@@ -51,12 +51,6 @@ def main():
     pyautogui.moveTo(1892,304);
     """
 
-    def cosaRara():
-        print("Cosa Rara");
-
-
-    cosaRara();
-
     entrarJuego();
     seleccionarOpcion();
     juegoGanador();    
